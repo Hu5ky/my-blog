@@ -1,4 +1,4 @@
-# Welcome to my full-stack React.js project
+# Welcome to my full-stack React.js project (Front-end)
 
 I wrote this little project to learn the React.js framework using the following LinkedIn Learning course: https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-2022/create-a-full-stack-website
 
